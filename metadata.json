@@ -1,0 +1,6 @@
+{
+  "name": "EcoPulse Carbon Tracker",
+  "description": "An AI-powered carbon footprint awareness platform that helps individuals understand, track, and reduce emissions through gamified quests, AI-driven activity parsing, and an interactive virtual carbon sink forest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
